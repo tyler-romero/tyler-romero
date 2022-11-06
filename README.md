@@ -1,4 +1,4 @@
-### Hey there! 👋 I’m [Tyler Romero][website] (nice to meet you!)
+### Hey there! 👋 I’m Tyler Romero (nice to meet you!)
 - 🐦 I currently work at Twitter on Conversations Ranking
 - 👀 I’m interested in recommender systems, NLP, CV, GCNs, autoML and ML Ops.
 - 🔬 Some of the best research papers I've read recently:
@@ -7,7 +7,7 @@
   * [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
   * [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
   * [Can weight sharing outperform random architecture search?](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bender_Can_Weight_Sharing_Outperform_Random_Architecture_Search_An_Investigation_With_CVPR_2020_paper.pdf)
-- 📝 My favorite industry relevant blog posts and articles:
+- 📝 My favorite industry-relevant blog posts and articles:
   * [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
   * [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48)
   * [When We Say 70 Percent, It Really Means 70 Percent](https://fivethirtyeight.com/features/when-we-say-70-percent-it-really-means-70-percent/)
@@ -20,6 +20,4 @@ tyler-romero/tyler-romero is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[website]: https://tyler-romero.omg.lol "Personal website"
-[twitter]: https://twitter.com/tyleraromero "Twitter Profile"
 [linkedin]: https://linkedin.com/in/tylerromero "LinkedIn Profile"
