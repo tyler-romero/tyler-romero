@@ -8,6 +8,7 @@
   * [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
   * [Can weight sharing outperform random architecture search?](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bender_Can_Weight_Sharing_Outperform_Random_Architecture_Search_An_Investigation_With_CVPR_2020_paper.pdf)
 - 📝 My favorite industry-relevant blog posts and articles:
+  * [Twitter: Sharing learnings about our image cropping algorithm](https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm)
   * [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
   * [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48)
   * [When We Say 70 Percent, It Really Means 70 Percent](https://fivethirtyeight.com/features/when-we-say-70-percent-it-really-means-70-percent/)
