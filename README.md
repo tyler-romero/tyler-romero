@@ -1,5 +1,5 @@
 ### Hey there! 👋 I’m Tyler Romero (nice to meet you!)
-- 🐦 I currently work at Twitter on Conversations Ranking
+- 🤖 I work at [Groundlight](https://www.groundlight.ai/) on a tool to allow developers to [quickly build CV applications from natural language descriptions](https://pypi.org/project/groundlight/). Before this, I worked at Twitter on the Home Timeline and Conversations.
 - 👀 I’m interested in recommender systems, NLP, CV, GCNs, autoML and ML Ops.
 - 🔬 Some of the best research papers I've read recently:
   * [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models](https://arxiv.org/abs/2209.05310)
