@@ -1,7 +1,8 @@
 ### Hey there! 👋 I’m Tyler Romero (nice to meet you!)
 - 🤖 I work at [Groundlight](https://www.groundlight.ai/) on a tool to allow developers to [quickly build CV applications from natural language descriptions](https://code.groundlight.ai/). Before this, I worked at Twitter on [modeling for the Home Timeline and Conversations](https://github.com/twitter/the-algorithm-ml/tree/main/projects/home/recap).
-- 👀 I’m interested in recommender systems, NLP, CV, GCNs, autoML and ML Ops.
+- 👀 I’m interested in computer vision, multimodal LLMs, recommender systems, autoML, and ML Ops.
 - 🔬 Some of the best research papers I've read recently:
+  * [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
   * [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
   * [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models](https://arxiv.org/abs/2209.05310)
   * [Monolith: Real Time Recommendation System with Collisionless Embedding Tables](https://arxiv.org/pdf/2209.07663.pdf)
