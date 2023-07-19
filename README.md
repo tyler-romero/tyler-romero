@@ -9,11 +9,8 @@
   * [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
 
 - 📝 My favorite industry-relevant blog posts and articles:
+  * [Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
   * [Twitter: Sharing learnings about our image cropping algorithm](https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm)
   * [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
   * [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48)
   * [When We Say 70 Percent, It Really Means 70 Percent](https://fivethirtyeight.com/features/when-we-say-70-percent-it-really-means-70-percent/)
-
-- 💼 Use [LinkedIn][linkedin] to spy on my career movements or send me a message. Get in touch via LinkedIn if you wish to chat over Signal or email.
-
-[linkedin]: https://linkedin.com/in/tylerromero "LinkedIn Profile"
