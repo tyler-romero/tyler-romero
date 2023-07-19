@@ -3,9 +3,8 @@
 - 👀 I’m interested in computer vision, multimodal LLMs, recommender systems, autoML, and ML Ops.
 - 🔬 Some of the best research papers I've read recently:
   * [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
-  * [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+  * [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
   * [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models](https://arxiv.org/abs/2209.05310)
-  * [Monolith: Real Time Recommendation System with Collisionless Embedding Tables](https://arxiv.org/pdf/2209.07663.pdf)
   * [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
 
 - 📝 My favorite industry-relevant blog posts and articles:
